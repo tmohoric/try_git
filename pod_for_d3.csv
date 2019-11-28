@@ -1,0 +1,751 @@
+Compound,Assay,PoD,Activity,Business line,MoA,Code,Description,All_Inactive
+Soraphen A,BDS10a_metab_PPARa_ago_24h,,inactive,Disease control,ACC,CSAA226599,peroxisome proliferator activated receptor agonism,False
+Soraphen A,BDS10b_metab_PPARa_anta_24h,,inactive,Disease control,ACC,CSAA226599,peroxisome proliferator activated receptor antagonism,False
+Soraphen A,BDS11a_metab_PPARg_ago_24h,,inactive,Disease control,ACC,CSAA226599,peroxisome proliferator activated receptor agonism,False
+Soraphen A,BDS11b_metab_PPARg_anta_24h,,inactive,Disease control,ACC,CSAA226599,peroxisome proliferator activated receptor antagonism,True
+Soraphen A,BDS12a_metab_PPARd_ago_24h,,inactive,Disease control,ACC,CSAA226599,peroxisome proliferator activated receptor agonism,False
+Soraphen A,BDS12b_metab_PPARd_anta_24h,,inactive,Disease control,ACC,CSAA226599,peroxisome proliferator activated receptor antagonism,False
+Soraphen A,BDS13a_xenob_AhR_ago_24h,,inactive,Disease control,ACC,CSAA226599,aryl hydrocarbon receptor agonism,False
+Soraphen A,BDS14a_hypox_Hif1a_act_24h,,inactive,Disease control,ACC,CSAA226599,Hif1a pathway activation,False
+Soraphen A,BDS15a_Wnt_TCF_act_24h,,inactive,Disease control,ACC,CSAA226599,Wnt pathway activation,True
+Soraphen A,BDS15b_Wnt_TCF_inhib_24h,,inactive,Disease control,ACC,CSAA226599,Wnt pathway inhibition,True
+Soraphen A,BDS16a_regul_AP1_act_24h,,inactive,Disease control,ACC,CSAA226599,AP1 pathway activation,True
+Soraphen A,BDS17a_stres_ESRE_act_24h,,inactive,Disease control,ACC,CSAA226599,ESRE pathway activation,False
+Soraphen A,BDS1a_EDC_ERa_ago_24h,,inactive,Disease control,ACC,CSAA226599,estrogen receptor agonism,False
+Soraphen A,BDS1b_EDC_ERa_anta_24h,,inactive,Disease control,ACC,CSAA226599,estrogen receptor antagonism,True
+Soraphen A,BDS20a_geno_p21_act_24h,,inactive,Disease control,ACC,CSAA226599,p21 pathway activation,False
+Soraphen A,BDS21a_geno_p53_act_24h,,inactive,Disease control,ACC,CSAA226599,p53 pathway activation,False
+Soraphen A,BDS22a_tox_cytotox_act_24h,-4.3,active,Disease control,ACC,CSAA226599,cytotoxicity,False
+Soraphen A,BDS2a_EDC_AR_ago_24h,,inactive,Disease control,ACC,CSAA226599,androgen receptor agonism,True
+Soraphen A,BDS2b_EDC_AR_anta_24h,,inactive,Disease control,ACC,CSAA226599,androgen receptor antagonism,False
+Soraphen A,BDS3a_EDC_PR_ago_24h,,inactive,Disease control,ACC,CSAA226599,progesterone receptor agonism,True
+Soraphen A,BDS3b_EDC_PR_anta_24h,,inactive,Disease control,ACC,CSAA226599,progesterone receptor antagonism,False
+Soraphen A,BDS4a_EDC_GR_ago_24h,,inactive,Disease control,ACC,CSAA226599,glucocorticoid receptor agonism,True
+Soraphen A,BDS4b_EDC_GR_anta_24h,,inactive,Disease control,ACC,CSAA226599,glucocorticoid receptor antagonism,True
+Soraphen A,BDS5a_EDC_TRb_ago_24h,,inactive,Disease control,ACC,CSAA226599,thyroid hormone receptor agonism,True
+Soraphen A,BDS5b_EDC_TRb_anta_24h,,inactive,Disease control,ACC,CSAA226599,thyroid hormone receptor antagonism,True
+Soraphen A,BDS7a_repro_RAR_ago_24h,,inactive,Disease control,ACC,CSAA226599,retinoic acid receptor agonism,True
+Soraphen A,BDS7b_repro_RAR_anta_24h,,inactive,Disease control,ACC,CSAA226599,retinoic acid receptor antagonism,True
+Soraphen A,BDS8a_metab_LXR_ago_24h,,inactive,Disease control,ACC,CSAA226599,liver X receptor agonism,True
+Soraphen A,BDS8b_metab_LXR_anta_24h,,inactive,Disease control,ACC,CSAA226599,liver X receptor antagonism,True
+Soraphen A,BDS9a_xenob_PXR_ago_24h,-7.0,active,Disease control,ACC,CSAA226599,pregnane X receptor agonism,False
+Soraphen A,BDS9b_xenob_PXR_anta_24h,,inactive,Disease control,ACC,CSAA226599,pregnane X receptor antagonism,True
+Soraphen A,UKN2_migration,-4.0,active,Disease control,ACC,CSAA226599,number of migrated cells,False
+Soraphen A,UKN4a_DART_LUH_neurite_24h,-4.4,active,Disease control,ACC,CSAA226599,neurite area,False
+Soraphen A,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-4.739690054,active,Disease control,ACC,CSAA226599,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Soraphen A,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-5.040005162,active,Disease control,ACC,CSAA226599,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Soraphen A,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-5.040005162,active,Disease control,ACC,CSAA226599,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Soraphen A,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Soraphen A,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Soraphen A,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,,inactive,Disease control,ACC,CSAA226599,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Soraphen A,UL55_OXstress_NRF2_3h_6h_24h_EP_1,-3.661165158,active,Disease control,ACC,CSAA226599,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+Soraphen A,UL55_OXstress_NRF2_3h_6h_24h_EP_2,-3.69894829,active,Disease control,ACC,CSAA226599,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+Soraphen A,UL55_OXstress_NRF2_3h_6h_24h_EP_3,-3.719148574,active,Disease control,ACC,CSAA226599,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+Soraphen A,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-3.846368035,active,Disease control,ACC,CSAA226599,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+Soraphen A,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-4.818728228,active,Disease control,ACC,CSAA226599,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+Soraphen A,UL56_OXstress_Keap1_16h_48h_72h_EP_3,-4.672845488,active,Disease control,ACC,CSAA226599,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+Soraphen A,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+Soraphen A,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Soraphen A,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Disease control,ACC,CSAA226599,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Soraphen A,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+Soraphen A,UL58_DNAdamage_p21_24h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+Soraphen A,UL58_DNAdamage_p21_24h_48h_72h_EP_3,,inactive,Disease control,ACC,CSAA226599,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+Soraphen A,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+Soraphen A,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+Soraphen A,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Disease control,ACC,CSAA226599,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+Soraphen A,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+Soraphen A,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+Soraphen A,UL61_ERstress_CHOP_16h_48h_72h_EP_1,-3.661165158,active,Disease control,ACC,CSAA226599,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+Soraphen A,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-3.667238464,active,Disease control,ACC,CSAA226599,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+Soraphen A,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-3.719148574,active,Disease control,ACC,CSAA226599,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+Soraphen A,UL62_ERstress_BiP_24h_48h_72h_EP_1,-3.649267548,active,Disease control,ACC,CSAA226599,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Soraphen A,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+Soraphen A,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Disease control,ACC,CSAA226599,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+Soraphen A,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Soraphen A,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,-5.0,active,Disease control,ACC,CSAA226599,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Soraphen A,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-5.0,active,Disease control,ACC,CSAA226599,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Soraphen A,UL64_Autophagy_LC3_3h_6h_24h_EP_3,-3.673397908,active,Disease control,ACC,CSAA226599,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+Soraphen A,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,-3.620875854,active,Disease control,ACC,CSAA226599,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Soraphen A,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,-3.755055247,active,Disease control,ACC,CSAA226599,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Soraphen A,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,-3.632010806,active,Disease control,ACC,CSAA226599,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Soraphen A,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,,inactive,Disease control,ACC,CSAA226599,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Soraphen A,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,,inactive,Disease control,ACC,CSAA226599,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Soraphen A,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,,inactive,Disease control,ACC,CSAA226599,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Soraphen A,VU_resazurin_24h,,inactive,Disease control,ACC,CSAA226599,cytotoxicity,False
+Soraphen A,VU_resazurin_72h,-3.8239087409443187,active,Disease control,ACC,CSAA226599,cytotoxicity,False
+Soraphen A,VU_seahorse,,inactive,Disease control,ACC,CSAA226599,mitotoxicity,False
+SYN547520,BDS10a_metab_PPARa_ago_24h,,inactive,Weed control,ACC,CSCV768607,peroxisome proliferator activated receptor agonism,False
+SYN547520,BDS10b_metab_PPARa_anta_24h,,inactive,Weed control,ACC,CSCV768607,peroxisome proliferator activated receptor antagonism,False
+SYN547520,BDS11a_metab_PPARg_ago_24h,,inactive,Weed control,ACC,CSCV768607,peroxisome proliferator activated receptor agonism,False
+SYN547520,BDS11b_metab_PPARg_anta_24h,,inactive,Weed control,ACC,CSCV768607,peroxisome proliferator activated receptor antagonism,True
+SYN547520,BDS12a_metab_PPARd_ago_24h,,inactive,Weed control,ACC,CSCV768607,peroxisome proliferator activated receptor agonism,False
+SYN547520,BDS12b_metab_PPARd_anta_24h,-4.2,active,Weed control,ACC,CSCV768607,peroxisome proliferator activated receptor antagonism,False
+SYN547520,BDS13a_xenob_AhR_ago_24h,,inactive,Weed control,ACC,CSCV768607,aryl hydrocarbon receptor agonism,False
+SYN547520,BDS14a_hypox_Hif1a_act_24h,,inactive,Weed control,ACC,CSCV768607,Hif1a pathway activation,False
+SYN547520,BDS15a_Wnt_TCF_act_24h,,inactive,Weed control,ACC,CSCV768607,Wnt pathway activation,True
+SYN547520,BDS15b_Wnt_TCF_inhib_24h,,inactive,Weed control,ACC,CSCV768607,Wnt pathway inhibition,True
+SYN547520,BDS16a_regul_AP1_act_24h,,inactive,Weed control,ACC,CSCV768607,AP1 pathway activation,True
+SYN547520,BDS17a_stres_ESRE_act_24h,-3.4,active,Weed control,ACC,CSCV768607,ESRE pathway activation,False
+SYN547520,BDS1a_EDC_ERa_ago_24h,,inactive,Weed control,ACC,CSCV768607,estrogen receptor agonism,False
+SYN547520,BDS1b_EDC_ERa_anta_24h,,inactive,Weed control,ACC,CSCV768607,estrogen receptor antagonism,True
+SYN547520,BDS20a_geno_p21_act_24h,,inactive,Weed control,ACC,CSCV768607,p21 pathway activation,False
+SYN547520,BDS21a_geno_p53_act_24h,,inactive,Weed control,ACC,CSCV768607,p53 pathway activation,False
+SYN547520,BDS22a_tox_cytotox_act_24h,-3.2,active,Weed control,ACC,CSCV768607,cytotoxicity,False
+SYN547520,BDS2a_EDC_AR_ago_24h,,inactive,Weed control,ACC,CSCV768607,androgen receptor agonism,True
+SYN547520,BDS2b_EDC_AR_anta_24h,,inactive,Weed control,ACC,CSCV768607,androgen receptor antagonism,False
+SYN547520,BDS3a_EDC_PR_ago_24h,,inactive,Weed control,ACC,CSCV768607,progesterone receptor agonism,True
+SYN547520,BDS3b_EDC_PR_anta_24h,,inactive,Weed control,ACC,CSCV768607,progesterone receptor antagonism,False
+SYN547520,BDS4a_EDC_GR_ago_24h,,inactive,Weed control,ACC,CSCV768607,glucocorticoid receptor agonism,True
+SYN547520,BDS4b_EDC_GR_anta_24h,,inactive,Weed control,ACC,CSCV768607,glucocorticoid receptor antagonism,True
+SYN547520,BDS5a_EDC_TRb_ago_24h,,inactive,Weed control,ACC,CSCV768607,thyroid hormone receptor agonism,True
+SYN547520,BDS5b_EDC_TRb_anta_24h,,inactive,Weed control,ACC,CSCV768607,thyroid hormone receptor antagonism,True
+SYN547520,BDS7a_repro_RAR_ago_24h,,inactive,Weed control,ACC,CSCV768607,retinoic acid receptor agonism,True
+SYN547520,BDS7b_repro_RAR_anta_24h,,inactive,Weed control,ACC,CSCV768607,retinoic acid receptor antagonism,True
+SYN547520,BDS8a_metab_LXR_ago_24h,,inactive,Weed control,ACC,CSCV768607,liver X receptor agonism,True
+SYN547520,BDS8b_metab_LXR_anta_24h,,inactive,Weed control,ACC,CSCV768607,liver X receptor antagonism,True
+SYN547520,BDS9a_xenob_PXR_ago_24h,-4.5,active,Weed control,ACC,CSCV768607,pregnane X receptor agonism,False
+SYN547520,BDS9b_xenob_PXR_anta_24h,,inactive,Weed control,ACC,CSCV768607,pregnane X receptor antagonism,True
+SYN547520,UKN2_migration,,inactive,Weed control,ACC,CSCV768607,number of migrated cells,False
+SYN547520,UKN4a_DART_LUH_neurite_24h,,inactive,Weed control,ACC,CSCV768607,neurite area,False
+SYN547520,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-3.78608399,active,Weed control,ACC,CSCV768607,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547520,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-3.87500698,active,Weed control,ACC,CSCV768607,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547520,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547520,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547520,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547520,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547520,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Weed control,ACC,CSCV768607,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN547520,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Weed control,ACC,CSCV768607,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN547520,UL55_OXstress_NRF2_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCV768607,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN547520,UL56_OXstress_Keap1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN547520,UL56_OXstress_Keap1_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN547520,UL56_OXstress_Keap1_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN547520,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN547520,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547520,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547520,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN547520,UL58_DNAdamage_p21_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547520,UL58_DNAdamage_p21_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547520,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN547520,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547520,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547520,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN547520,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN547520,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN547520,UL61_ERstress_CHOP_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547520,UL61_ERstress_CHOP_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547520,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547520,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN547520,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN547520,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547520,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,-4.51812759,active,Weed control,ACC,CSCV768607,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547520,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-4.614930224,active,Weed control,ACC,CSCV768607,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547520,UL64_Autophagy_LC3_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCV768607,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN547520,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547520,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,-3.719148574,active,Weed control,ACC,CSCV768607,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547520,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547520,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV768607,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547520,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV768607,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547520,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV768607,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547520,VU_resazurin_24h,,inactive,Weed control,ACC,CSCV768607,cytotoxicity,False
+SYN547520,VU_resazurin_72h,,inactive,Weed control,ACC,CSCV768607,cytotoxicity,False
+SYN547520,VU_seahorse,,inactive,Weed control,ACC,CSCV768607,mitotoxicity,False
+SYN545504,BDS10a_metab_PPARa_ago_24h,,inactive,Weed control,ACC,CSCD573160,peroxisome proliferator activated receptor agonism,False
+SYN545504,BDS10b_metab_PPARa_anta_24h,,inactive,Weed control,ACC,CSCD573160,peroxisome proliferator activated receptor antagonism,False
+SYN545504,BDS11a_metab_PPARg_ago_24h,,inactive,Weed control,ACC,CSCD573160,peroxisome proliferator activated receptor agonism,False
+SYN545504,BDS11b_metab_PPARg_anta_24h,,inactive,Weed control,ACC,CSCD573160,peroxisome proliferator activated receptor antagonism,True
+SYN545504,BDS12a_metab_PPARd_ago_24h,,inactive,Weed control,ACC,CSCD573160,peroxisome proliferator activated receptor agonism,False
+SYN545504,BDS12b_metab_PPARd_anta_24h,-5.0,active,Weed control,ACC,CSCD573160,peroxisome proliferator activated receptor antagonism,False
+SYN545504,BDS13a_xenob_AhR_ago_24h,,inactive,Weed control,ACC,CSCD573160,aryl hydrocarbon receptor agonism,False
+SYN545504,BDS14a_hypox_Hif1a_act_24h,,inactive,Weed control,ACC,CSCD573160,Hif1a pathway activation,False
+SYN545504,BDS15a_Wnt_TCF_act_24h,,inactive,Weed control,ACC,CSCD573160,Wnt pathway activation,True
+SYN545504,BDS15b_Wnt_TCF_inhib_24h,,inactive,Weed control,ACC,CSCD573160,Wnt pathway inhibition,True
+SYN545504,BDS16a_regul_AP1_act_24h,,inactive,Weed control,ACC,CSCD573160,AP1 pathway activation,True
+SYN545504,BDS17a_stres_ESRE_act_24h,,inactive,Weed control,ACC,CSCD573160,ESRE pathway activation,False
+SYN545504,BDS1a_EDC_ERa_ago_24h,,inactive,Weed control,ACC,CSCD573160,estrogen receptor agonism,False
+SYN545504,BDS1b_EDC_ERa_anta_24h,,inactive,Weed control,ACC,CSCD573160,estrogen receptor antagonism,True
+SYN545504,BDS20a_geno_p21_act_24h,,inactive,Weed control,ACC,CSCD573160,p21 pathway activation,False
+SYN545504,BDS21a_geno_p53_act_24h,,inactive,Weed control,ACC,CSCD573160,p53 pathway activation,False
+SYN545504,BDS22a_tox_cytotox_act_24h,-4.5,active,Weed control,ACC,CSCD573160,cytotoxicity,False
+SYN545504,BDS2a_EDC_AR_ago_24h,,inactive,Weed control,ACC,CSCD573160,androgen receptor agonism,True
+SYN545504,BDS2b_EDC_AR_anta_24h,,inactive,Weed control,ACC,CSCD573160,androgen receptor antagonism,False
+SYN545504,BDS3a_EDC_PR_ago_24h,,inactive,Weed control,ACC,CSCD573160,progesterone receptor agonism,True
+SYN545504,BDS3b_EDC_PR_anta_24h,,inactive,Weed control,ACC,CSCD573160,progesterone receptor antagonism,False
+SYN545504,BDS4a_EDC_GR_ago_24h,,inactive,Weed control,ACC,CSCD573160,glucocorticoid receptor agonism,True
+SYN545504,BDS4b_EDC_GR_anta_24h,,inactive,Weed control,ACC,CSCD573160,glucocorticoid receptor antagonism,True
+SYN545504,BDS5a_EDC_TRb_ago_24h,,inactive,Weed control,ACC,CSCD573160,thyroid hormone receptor agonism,True
+SYN545504,BDS5b_EDC_TRb_anta_24h,,inactive,Weed control,ACC,CSCD573160,thyroid hormone receptor antagonism,True
+SYN545504,BDS7a_repro_RAR_ago_24h,,inactive,Weed control,ACC,CSCD573160,retinoic acid receptor agonism,True
+SYN545504,BDS7b_repro_RAR_anta_24h,,inactive,Weed control,ACC,CSCD573160,retinoic acid receptor antagonism,True
+SYN545504,BDS8a_metab_LXR_ago_24h,,inactive,Weed control,ACC,CSCD573160,liver X receptor agonism,True
+SYN545504,BDS8b_metab_LXR_anta_24h,,inactive,Weed control,ACC,CSCD573160,liver X receptor antagonism,True
+SYN545504,BDS9a_xenob_PXR_ago_24h,-5.8,active,Weed control,ACC,CSCD573160,pregnane X receptor agonism,False
+SYN545504,BDS9b_xenob_PXR_anta_24h,,inactive,Weed control,ACC,CSCD573160,pregnane X receptor antagonism,True
+SYN545504,UKN2_migration,-4.5,active,Weed control,ACC,CSCD573160,number of migrated cells,False
+SYN545504,UKN4a_DART_LUH_neurite_24h,-4.1,active,Weed control,ACC,CSCD573160,neurite area,False
+SYN545504,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN545504,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-4.739690054,active,Weed control,ACC,CSCD573160,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN545504,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCD573160,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN545504,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN545504,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,-3.733157051,active,Weed control,ACC,CSCD573160,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN545504,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,-3.770292567,active,Weed control,ACC,CSCD573160,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN545504,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Weed control,ACC,CSCD573160,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN545504,UL55_OXstress_NRF2_3h_6h_24h_EP_2,-3.626407645,active,Weed control,ACC,CSCD573160,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN545504,UL55_OXstress_NRF2_3h_6h_24h_EP_3,-3.865249314,active,Weed control,ACC,CSCD573160,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN545504,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-3.719148574,active,Weed control,ACC,CSCD573160,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN545504,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-3.938660633,active,Weed control,ACC,CSCD573160,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN545504,UL56_OXstress_Keap1_16h_48h_72h_EP_3,-4.739690054,active,Weed control,ACC,CSCD573160,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN545504,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN545504,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN545504,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCD573160,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN545504,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN545504,UL58_DNAdamage_p21_24h_48h_72h_EP_2,-3.770292567,active,Weed control,ACC,CSCD573160,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN545504,UL58_DNAdamage_p21_24h_48h_72h_EP_3,-3.740334461,active,Weed control,ACC,CSCD573160,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN545504,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN545504,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN545504,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCD573160,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN545504,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN545504,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN545504,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN545504,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-3.762607085,active,Weed control,ACC,CSCD573160,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN545504,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-3.778116508,active,Weed control,ACC,CSCD573160,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN545504,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN545504,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN545504,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCD573160,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN545504,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN545504,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN545504,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCD573160,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN545504,UL64_Autophagy_LC3_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCD573160,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN545504,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN545504,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN545504,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,-4.342179544,active,Weed control,ACC,CSCD573160,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN545504,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCD573160,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN545504,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCD573160,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN545504,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCD573160,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN545504,VU_resazurin_24h,-3.8239087409443187,active,Weed control,ACC,CSCD573160,cytotoxicity,False
+SYN545504,VU_resazurin_72h,-4.301029995663981,active,Weed control,ACC,CSCD573160,cytotoxicity,False
+SYN545504,VU_seahorse,-5.0,active,Weed control,ACC,CSCD573160,mitotoxicity,False
+SYN547328,BDS10a_metab_PPARa_ago_24h,,inactive,Weed control,ACC,CSCR128823,peroxisome proliferator activated receptor agonism,False
+SYN547328,BDS10b_metab_PPARa_anta_24h,,inactive,Weed control,ACC,CSCR128823,peroxisome proliferator activated receptor antagonism,False
+SYN547328,BDS11a_metab_PPARg_ago_24h,,inactive,Weed control,ACC,CSCR128823,peroxisome proliferator activated receptor agonism,False
+SYN547328,BDS11b_metab_PPARg_anta_24h,,inactive,Weed control,ACC,CSCR128823,peroxisome proliferator activated receptor antagonism,True
+SYN547328,BDS12a_metab_PPARd_ago_24h,,inactive,Weed control,ACC,CSCR128823,peroxisome proliferator activated receptor agonism,False
+SYN547328,BDS12b_metab_PPARd_anta_24h,-4.9,active,Weed control,ACC,CSCR128823,peroxisome proliferator activated receptor antagonism,False
+SYN547328,BDS13a_xenob_AhR_ago_24h,,inactive,Weed control,ACC,CSCR128823,aryl hydrocarbon receptor agonism,False
+SYN547328,BDS14a_hypox_Hif1a_act_24h,,inactive,Weed control,ACC,CSCR128823,Hif1a pathway activation,False
+SYN547328,BDS15a_Wnt_TCF_act_24h,,inactive,Weed control,ACC,CSCR128823,Wnt pathway activation,True
+SYN547328,BDS15b_Wnt_TCF_inhib_24h,,inactive,Weed control,ACC,CSCR128823,Wnt pathway inhibition,True
+SYN547328,BDS16a_regul_AP1_act_24h,,inactive,Weed control,ACC,CSCR128823,AP1 pathway activation,True
+SYN547328,BDS17a_stres_ESRE_act_24h,-3.6,active,Weed control,ACC,CSCR128823,ESRE pathway activation,False
+SYN547328,BDS1a_EDC_ERa_ago_24h,,inactive,Weed control,ACC,CSCR128823,estrogen receptor agonism,False
+SYN547328,BDS1b_EDC_ERa_anta_24h,,inactive,Weed control,ACC,CSCR128823,estrogen receptor antagonism,True
+SYN547328,BDS20a_geno_p21_act_24h,,inactive,Weed control,ACC,CSCR128823,p21 pathway activation,False
+SYN547328,BDS21a_geno_p53_act_24h,-3.0,active,Weed control,ACC,CSCR128823,p53 pathway activation,False
+SYN547328,BDS22a_tox_cytotox_act_24h,-3.9,active,Weed control,ACC,CSCR128823,cytotoxicity,False
+SYN547328,BDS2a_EDC_AR_ago_24h,,inactive,Weed control,ACC,CSCR128823,androgen receptor agonism,True
+SYN547328,BDS2b_EDC_AR_anta_24h,,inactive,Weed control,ACC,CSCR128823,androgen receptor antagonism,False
+SYN547328,BDS3a_EDC_PR_ago_24h,,inactive,Weed control,ACC,CSCR128823,progesterone receptor agonism,True
+SYN547328,BDS3b_EDC_PR_anta_24h,,inactive,Weed control,ACC,CSCR128823,progesterone receptor antagonism,False
+SYN547328,BDS4a_EDC_GR_ago_24h,,inactive,Weed control,ACC,CSCR128823,glucocorticoid receptor agonism,True
+SYN547328,BDS4b_EDC_GR_anta_24h,,inactive,Weed control,ACC,CSCR128823,glucocorticoid receptor antagonism,True
+SYN547328,BDS5a_EDC_TRb_ago_24h,,inactive,Weed control,ACC,CSCR128823,thyroid hormone receptor agonism,True
+SYN547328,BDS5b_EDC_TRb_anta_24h,,inactive,Weed control,ACC,CSCR128823,thyroid hormone receptor antagonism,True
+SYN547328,BDS7a_repro_RAR_ago_24h,,inactive,Weed control,ACC,CSCR128823,retinoic acid receptor agonism,True
+SYN547328,BDS7b_repro_RAR_anta_24h,,inactive,Weed control,ACC,CSCR128823,retinoic acid receptor antagonism,True
+SYN547328,BDS8a_metab_LXR_ago_24h,,inactive,Weed control,ACC,CSCR128823,liver X receptor agonism,True
+SYN547328,BDS8b_metab_LXR_anta_24h,,inactive,Weed control,ACC,CSCR128823,liver X receptor antagonism,True
+SYN547328,BDS9a_xenob_PXR_ago_24h,-5.1,active,Weed control,ACC,CSCR128823,pregnane X receptor agonism,False
+SYN547328,BDS9b_xenob_PXR_anta_24h,,inactive,Weed control,ACC,CSCR128823,pregnane X receptor antagonism,True
+SYN547328,UKN2_migration,,inactive,Weed control,ACC,CSCR128823,number of migrated cells,False
+SYN547328,UKN4a_DART_LUH_neurite_24h,,inactive,Weed control,ACC,CSCR128823,neurite area,False
+SYN547328,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-4.915423722,active,Weed control,ACC,CSCR128823,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547328,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-4.915423722,active,Weed control,ACC,CSCR128823,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547328,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-4.915423722,active,Weed control,ACC,CSCR128823,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547328,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,-3.667238464,active,Weed control,ACC,CSCR128823,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547328,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,-3.726096334,active,Weed control,ACC,CSCR128823,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547328,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,-3.726096334,active,Weed control,ACC,CSCR128823,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547328,UL55_OXstress_NRF2_3h_6h_24h_EP_1,-3.604691084,active,Weed control,ACC,CSCR128823,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN547328,UL55_OXstress_NRF2_3h_6h_24h_EP_2,-3.726096334,active,Weed control,ACC,CSCR128823,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN547328,UL55_OXstress_NRF2_3h_6h_24h_EP_3,-3.762607085,active,Weed control,ACC,CSCR128823,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN547328,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-3.846368035,active,Weed control,ACC,CSCR128823,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN547328,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-4.51812759,active,Weed control,ACC,CSCR128823,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN547328,UL56_OXstress_Keap1_16h_48h_72h_EP_3,-4.672845488,active,Weed control,ACC,CSCR128823,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN547328,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN547328,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCR128823,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547328,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCR128823,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547328,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN547328,UL58_DNAdamage_p21_24h_48h_72h_EP_2,-3.770292567,active,Weed control,ACC,CSCR128823,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547328,UL58_DNAdamage_p21_24h_48h_72h_EP_3,-3.685985229,active,Weed control,ACC,CSCR128823,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547328,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN547328,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCR128823,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547328,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCR128823,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547328,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN547328,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCR128823,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN547328,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN547328,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-3.673397908,active,Weed control,ACC,CSCR128823,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547328,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-3.712310216,active,Weed control,ACC,CSCR128823,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547328,UL62_ERstress_BiP_24h_48h_72h_EP_1,-3.655175612,active,Weed control,ACC,CSCR128823,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547328,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCR128823,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN547328,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCR128823,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN547328,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547328,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,-4.563837353,active,Weed control,ACC,CSCR128823,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547328,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-4.818728228,active,Weed control,ACC,CSCR128823,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547328,UL64_Autophagy_LC3_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCR128823,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN547328,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCR128823,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547328,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCR128823,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547328,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCR128823,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547328,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,-3.819501377,active,Weed control,ACC,CSCR128823,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547328,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,-4.342179544,active,Weed control,ACC,CSCR128823,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547328,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,-3.726096334,active,Weed control,ACC,CSCR128823,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547328,VU_resazurin_24h,,inactive,Weed control,ACC,CSCR128823,cytotoxicity,False
+SYN547328,VU_resazurin_72h,,inactive,Weed control,ACC,CSCR128823,cytotoxicity,False
+SYN547328,VU_seahorse,-3.8239087409443187,active,Weed control,ACC,CSCR128823,mitotoxicity,False
+SYN547341,BDS10a_metab_PPARa_ago_24h,,inactive,Weed control,ACC,CSCS232365,peroxisome proliferator activated receptor agonism,False
+SYN547341,BDS10b_metab_PPARa_anta_24h,-4.5,active,Weed control,ACC,CSCS232365,peroxisome proliferator activated receptor antagonism,False
+SYN547341,BDS11a_metab_PPARg_ago_24h,,inactive,Weed control,ACC,CSCS232365,peroxisome proliferator activated receptor agonism,False
+SYN547341,BDS11b_metab_PPARg_anta_24h,,inactive,Weed control,ACC,CSCS232365,peroxisome proliferator activated receptor antagonism,True
+SYN547341,BDS12a_metab_PPARd_ago_24h,,inactive,Weed control,ACC,CSCS232365,peroxisome proliferator activated receptor agonism,False
+SYN547341,BDS12b_metab_PPARd_anta_24h,,inactive,Weed control,ACC,CSCS232365,peroxisome proliferator activated receptor antagonism,False
+SYN547341,BDS13a_xenob_AhR_ago_24h,,inactive,Weed control,ACC,CSCS232365,aryl hydrocarbon receptor agonism,False
+SYN547341,BDS14a_hypox_Hif1a_act_24h,,inactive,Weed control,ACC,CSCS232365,Hif1a pathway activation,False
+SYN547341,BDS15a_Wnt_TCF_act_24h,,inactive,Weed control,ACC,CSCS232365,Wnt pathway activation,True
+SYN547341,BDS15b_Wnt_TCF_inhib_24h,,inactive,Weed control,ACC,CSCS232365,Wnt pathway inhibition,True
+SYN547341,BDS16a_regul_AP1_act_24h,,inactive,Weed control,ACC,CSCS232365,AP1 pathway activation,True
+SYN547341,BDS17a_stres_ESRE_act_24h,,inactive,Weed control,ACC,CSCS232365,ESRE pathway activation,False
+SYN547341,BDS1a_EDC_ERa_ago_24h,,inactive,Weed control,ACC,CSCS232365,estrogen receptor agonism,False
+SYN547341,BDS1b_EDC_ERa_anta_24h,,inactive,Weed control,ACC,CSCS232365,estrogen receptor antagonism,True
+SYN547341,BDS20a_geno_p21_act_24h,,inactive,Weed control,ACC,CSCS232365,p21 pathway activation,False
+SYN547341,BDS21a_geno_p53_act_24h,,inactive,Weed control,ACC,CSCS232365,p53 pathway activation,False
+SYN547341,BDS22a_tox_cytotox_act_24h,-3.8,active,Weed control,ACC,CSCS232365,cytotoxicity,False
+SYN547341,BDS2a_EDC_AR_ago_24h,,inactive,Weed control,ACC,CSCS232365,androgen receptor agonism,True
+SYN547341,BDS2b_EDC_AR_anta_24h,,inactive,Weed control,ACC,CSCS232365,androgen receptor antagonism,False
+SYN547341,BDS3a_EDC_PR_ago_24h,,inactive,Weed control,ACC,CSCS232365,progesterone receptor agonism,True
+SYN547341,BDS3b_EDC_PR_anta_24h,,inactive,Weed control,ACC,CSCS232365,progesterone receptor antagonism,False
+SYN547341,BDS4a_EDC_GR_ago_24h,,inactive,Weed control,ACC,CSCS232365,glucocorticoid receptor agonism,True
+SYN547341,BDS4b_EDC_GR_anta_24h,,inactive,Weed control,ACC,CSCS232365,glucocorticoid receptor antagonism,True
+SYN547341,BDS5a_EDC_TRb_ago_24h,,inactive,Weed control,ACC,CSCS232365,thyroid hormone receptor agonism,True
+SYN547341,BDS5b_EDC_TRb_anta_24h,,inactive,Weed control,ACC,CSCS232365,thyroid hormone receptor antagonism,True
+SYN547341,BDS7a_repro_RAR_ago_24h,,inactive,Weed control,ACC,CSCS232365,retinoic acid receptor agonism,True
+SYN547341,BDS7b_repro_RAR_anta_24h,,inactive,Weed control,ACC,CSCS232365,retinoic acid receptor antagonism,True
+SYN547341,BDS8a_metab_LXR_ago_24h,,inactive,Weed control,ACC,CSCS232365,liver X receptor agonism,True
+SYN547341,BDS8b_metab_LXR_anta_24h,,inactive,Weed control,ACC,CSCS232365,liver X receptor antagonism,True
+SYN547341,BDS9a_xenob_PXR_ago_24h,,inactive,Weed control,ACC,CSCS232365,pregnane X receptor agonism,False
+SYN547341,BDS9b_xenob_PXR_anta_24h,,inactive,Weed control,ACC,CSCS232365,pregnane X receptor antagonism,True
+SYN547341,UKN2_migration,,inactive,Weed control,ACC,CSCS232365,number of migrated cells,False
+SYN547341,UKN4a_DART_LUH_neurite_24h,,inactive,Weed control,ACC,CSCS232365,neurite area,False
+SYN547341,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-3.810902891,active,Weed control,ACC,CSCS232365,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547341,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-3.802471344,active,Weed control,ACC,CSCS232365,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547341,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-3.747632486,active,Weed control,ACC,CSCS232365,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547341,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547341,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547341,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,-3.705577867,active,Weed control,ACC,CSCS232365,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547341,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Weed control,ACC,CSCS232365,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN547341,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Weed control,ACC,CSCS232365,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN547341,UL55_OXstress_NRF2_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCS232365,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN547341,UL56_OXstress_Keap1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN547341,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-4.439017944,active,Weed control,ACC,CSCS232365,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN547341,UL56_OXstress_Keap1_16h_48h_72h_EP_3,-4.614930224,active,Weed control,ACC,CSCS232365,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN547341,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN547341,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547341,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547341,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN547341,UL58_DNAdamage_p21_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547341,UL58_DNAdamage_p21_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547341,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN547341,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547341,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547341,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN547341,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,-3.726096334,active,Weed control,ACC,CSCS232365,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN547341,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN547341,UL61_ERstress_CHOP_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN547341,UL61_ERstress_CHOP_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN547341,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547341,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN547341,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN547341,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,-3.762607085,active,Weed control,ACC,CSCS232365,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547341,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,-4.239577517,active,Weed control,ACC,CSCS232365,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547341,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-4.40428338,active,Weed control,ACC,CSCS232365,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547341,UL64_Autophagy_LC3_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCS232365,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN547341,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547341,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547341,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547341,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCS232365,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN547341,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCS232365,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN547341,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCS232365,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN547341,VU_resazurin_24h,,inactive,Weed control,ACC,CSCS232365,cytotoxicity,False
+SYN547341,VU_resazurin_72h,,inactive,Weed control,ACC,CSCS232365,cytotoxicity,False
+SYN547341,VU_seahorse,,inactive,Weed control,ACC,CSCS232365,mitotoxicity,False
+SYN548096,BDS10a_metab_PPARa_ago_24h,,inactive,Weed control,ACC,CSCV853968,peroxisome proliferator activated receptor agonism,False
+SYN548096,BDS10b_metab_PPARa_anta_24h,,inactive,Weed control,ACC,CSCV853968,peroxisome proliferator activated receptor antagonism,False
+SYN548096,BDS11a_metab_PPARg_ago_24h,,inactive,Weed control,ACC,CSCV853968,peroxisome proliferator activated receptor agonism,False
+SYN548096,BDS11b_metab_PPARg_anta_24h,,inactive,Weed control,ACC,CSCV853968,peroxisome proliferator activated receptor antagonism,True
+SYN548096,BDS12a_metab_PPARd_ago_24h,,inactive,Weed control,ACC,CSCV853968,peroxisome proliferator activated receptor agonism,False
+SYN548096,BDS12b_metab_PPARd_anta_24h,,inactive,Weed control,ACC,CSCV853968,peroxisome proliferator activated receptor antagonism,False
+SYN548096,BDS13a_xenob_AhR_ago_24h,,inactive,Weed control,ACC,CSCV853968,aryl hydrocarbon receptor agonism,False
+SYN548096,BDS14a_hypox_Hif1a_act_24h,,inactive,Weed control,ACC,CSCV853968,Hif1a pathway activation,False
+SYN548096,BDS15a_Wnt_TCF_act_24h,,inactive,Weed control,ACC,CSCV853968,Wnt pathway activation,True
+SYN548096,BDS15b_Wnt_TCF_inhib_24h,,inactive,Weed control,ACC,CSCV853968,Wnt pathway inhibition,True
+SYN548096,BDS16a_regul_AP1_act_24h,,inactive,Weed control,ACC,CSCV853968,AP1 pathway activation,True
+SYN548096,BDS17a_stres_ESRE_act_24h,,inactive,Weed control,ACC,CSCV853968,ESRE pathway activation,False
+SYN548096,BDS1a_EDC_ERa_ago_24h,,inactive,Weed control,ACC,CSCV853968,estrogen receptor agonism,False
+SYN548096,BDS1b_EDC_ERa_anta_24h,,inactive,Weed control,ACC,CSCV853968,estrogen receptor antagonism,True
+SYN548096,BDS20a_geno_p21_act_24h,,inactive,Weed control,ACC,CSCV853968,p21 pathway activation,False
+SYN548096,BDS21a_geno_p53_act_24h,,inactive,Weed control,ACC,CSCV853968,p53 pathway activation,False
+SYN548096,BDS22a_tox_cytotox_act_24h,,inactive,Weed control,ACC,CSCV853968,cytotoxicity,False
+SYN548096,BDS2a_EDC_AR_ago_24h,,inactive,Weed control,ACC,CSCV853968,androgen receptor agonism,True
+SYN548096,BDS2b_EDC_AR_anta_24h,,inactive,Weed control,ACC,CSCV853968,androgen receptor antagonism,False
+SYN548096,BDS3a_EDC_PR_ago_24h,,inactive,Weed control,ACC,CSCV853968,progesterone receptor agonism,True
+SYN548096,BDS3b_EDC_PR_anta_24h,,inactive,Weed control,ACC,CSCV853968,progesterone receptor antagonism,False
+SYN548096,BDS4a_EDC_GR_ago_24h,,inactive,Weed control,ACC,CSCV853968,glucocorticoid receptor agonism,True
+SYN548096,BDS4b_EDC_GR_anta_24h,,inactive,Weed control,ACC,CSCV853968,glucocorticoid receptor antagonism,True
+SYN548096,BDS5a_EDC_TRb_ago_24h,,inactive,Weed control,ACC,CSCV853968,thyroid hormone receptor agonism,True
+SYN548096,BDS5b_EDC_TRb_anta_24h,,inactive,Weed control,ACC,CSCV853968,thyroid hormone receptor antagonism,True
+SYN548096,BDS7a_repro_RAR_ago_24h,,inactive,Weed control,ACC,CSCV853968,retinoic acid receptor agonism,True
+SYN548096,BDS7b_repro_RAR_anta_24h,,inactive,Weed control,ACC,CSCV853968,retinoic acid receptor antagonism,True
+SYN548096,BDS8a_metab_LXR_ago_24h,,inactive,Weed control,ACC,CSCV853968,liver X receptor agonism,True
+SYN548096,BDS8b_metab_LXR_anta_24h,,inactive,Weed control,ACC,CSCV853968,liver X receptor antagonism,True
+SYN548096,BDS9a_xenob_PXR_ago_24h,,inactive,Weed control,ACC,CSCV853968,pregnane X receptor agonism,False
+SYN548096,BDS9b_xenob_PXR_anta_24h,,inactive,Weed control,ACC,CSCV853968,pregnane X receptor antagonism,True
+SYN548096,UKN2_migration,,inactive,Weed control,ACC,CSCV853968,number of migrated cells,False
+SYN548096,UKN4a_DART_LUH_neurite_24h,,inactive,Weed control,ACC,CSCV853968,neurite area,False
+SYN548096,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-3.655175612,active,Weed control,ACC,CSCV853968,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548096,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-3.69894829,active,Weed control,ACC,CSCV853968,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548096,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548096,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548096,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548096,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548096,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Weed control,ACC,CSCV853968,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN548096,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Weed control,ACC,CSCV853968,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN548096,UL55_OXstress_NRF2_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCV853968,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN548096,UL56_OXstress_Keap1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN548096,UL56_OXstress_Keap1_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN548096,UL56_OXstress_Keap1_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN548096,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN548096,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548096,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548096,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN548096,UL58_DNAdamage_p21_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548096,UL58_DNAdamage_p21_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548096,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN548096,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548096,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548096,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN548096,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN548096,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN548096,UL61_ERstress_CHOP_16h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548096,UL61_ERstress_CHOP_16h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548096,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548096,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN548096,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN548096,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548096,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,-3.78608399,active,Weed control,ACC,CSCV853968,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548096,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-3.819501377,active,Weed control,ACC,CSCV853968,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548096,UL64_Autophagy_LC3_3h_6h_24h_EP_3,,inactive,Weed control,ACC,CSCV853968,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN548096,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548096,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548096,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548096,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,,inactive,Weed control,ACC,CSCV853968,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548096,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,,inactive,Weed control,ACC,CSCV853968,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548096,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,,inactive,Weed control,ACC,CSCV853968,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548096,VU_resazurin_24h,,inactive,Weed control,ACC,CSCV853968,cytotoxicity,False
+SYN548096,VU_resazurin_72h,,inactive,Weed control,ACC,CSCV853968,cytotoxicity,False
+SYN548096,VU_seahorse,,inactive,Weed control,ACC,CSCV853968,mitotoxicity,False
+Brequinar,BDS10a_metab_PPARa_ago_24h,-6.5,active,Disease control,DHOD,CSAA535232,peroxisome proliferator activated receptor agonism,False
+Brequinar,BDS10b_metab_PPARa_anta_24h,,inactive,Disease control,DHOD,CSAA535232,peroxisome proliferator activated receptor antagonism,False
+Brequinar,BDS11a_metab_PPARg_ago_24h,-5.0,active,Disease control,DHOD,CSAA535232,peroxisome proliferator activated receptor agonism,False
+Brequinar,BDS11b_metab_PPARg_anta_24h,,inactive,Disease control,DHOD,CSAA535232,peroxisome proliferator activated receptor antagonism,True
+Brequinar,BDS12a_metab_PPARd_ago_24h,-5.9,active,Disease control,DHOD,CSAA535232,peroxisome proliferator activated receptor agonism,False
+Brequinar,BDS12b_metab_PPARd_anta_24h,,inactive,Disease control,DHOD,CSAA535232,peroxisome proliferator activated receptor antagonism,False
+Brequinar,BDS13a_xenob_AhR_ago_24h,-4.0,active,Disease control,DHOD,CSAA535232,aryl hydrocarbon receptor agonism,False
+Brequinar,BDS14a_hypox_Hif1a_act_24h,-6.5,active,Disease control,DHOD,CSAA535232,Hif1a pathway activation,False
+Brequinar,BDS15a_Wnt_TCF_act_24h,,inactive,Disease control,DHOD,CSAA535232,Wnt pathway activation,True
+Brequinar,BDS15b_Wnt_TCF_inhib_24h,,inactive,Disease control,DHOD,CSAA535232,Wnt pathway inhibition,True
+Brequinar,BDS16a_regul_AP1_act_24h,,inactive,Disease control,DHOD,CSAA535232,AP1 pathway activation,True
+Brequinar,BDS17a_stres_ESRE_act_24h,-3.6,active,Disease control,DHOD,CSAA535232,ESRE pathway activation,False
+Brequinar,BDS1a_EDC_ERa_ago_24h,,inactive,Disease control,DHOD,CSAA535232,estrogen receptor agonism,False
+Brequinar,BDS1b_EDC_ERa_anta_24h,,inactive,Disease control,DHOD,CSAA535232,estrogen receptor antagonism,True
+Brequinar,BDS20a_geno_p21_act_24h,-7.4,active,Disease control,DHOD,CSAA535232,p21 pathway activation,False
+Brequinar,BDS21a_geno_p53_act_24h,-7.0,active,Disease control,DHOD,CSAA535232,p53 pathway activation,False
+Brequinar,BDS22a_tox_cytotox_act_24h,-3.7,active,Disease control,DHOD,CSAA535232,cytotoxicity,False
+Brequinar,BDS2a_EDC_AR_ago_24h,,inactive,Disease control,DHOD,CSAA535232,androgen receptor agonism,True
+Brequinar,BDS2b_EDC_AR_anta_24h,-7.0,active,Disease control,DHOD,CSAA535232,androgen receptor antagonism,False
+Brequinar,BDS3a_EDC_PR_ago_24h,,inactive,Disease control,DHOD,CSAA535232,progesterone receptor agonism,True
+Brequinar,BDS3b_EDC_PR_anta_24h,-7.0,active,Disease control,DHOD,CSAA535232,progesterone receptor antagonism,False
+Brequinar,BDS4a_EDC_GR_ago_24h,,inactive,Disease control,DHOD,CSAA535232,glucocorticoid receptor agonism,True
+Brequinar,BDS4b_EDC_GR_anta_24h,,inactive,Disease control,DHOD,CSAA535232,glucocorticoid receptor antagonism,True
+Brequinar,BDS5a_EDC_TRb_ago_24h,,inactive,Disease control,DHOD,CSAA535232,thyroid hormone receptor agonism,True
+Brequinar,BDS5b_EDC_TRb_anta_24h,,inactive,Disease control,DHOD,CSAA535232,thyroid hormone receptor antagonism,True
+Brequinar,BDS7a_repro_RAR_ago_24h,,inactive,Disease control,DHOD,CSAA535232,retinoic acid receptor agonism,True
+Brequinar,BDS7b_repro_RAR_anta_24h,,inactive,Disease control,DHOD,CSAA535232,retinoic acid receptor antagonism,True
+Brequinar,BDS8a_metab_LXR_ago_24h,,inactive,Disease control,DHOD,CSAA535232,liver X receptor agonism,True
+Brequinar,BDS8b_metab_LXR_anta_24h,,inactive,Disease control,DHOD,CSAA535232,liver X receptor antagonism,True
+Brequinar,BDS9a_xenob_PXR_ago_24h,,inactive,Disease control,DHOD,CSAA535232,pregnane X receptor agonism,False
+Brequinar,BDS9b_xenob_PXR_anta_24h,,inactive,Disease control,DHOD,CSAA535232,pregnane X receptor antagonism,True
+Brequinar,UKN2_migration,-4.7,active,Disease control,DHOD,CSAA535232,number of migrated cells,False
+Brequinar,UKN4a_DART_LUH_neurite_24h,-4.2,active,Disease control,DHOD,CSAA535232,neurite area,False
+Brequinar,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-4.210278306,active,Disease control,DHOD,CSAA535232,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Brequinar,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-4.22475374,active,Disease control,DHOD,CSAA535232,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Brequinar,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-4.263205245,active,Disease control,DHOD,CSAA535232,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Brequinar,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,-4.056109952,active,Disease control,DHOD,CSAA535232,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Brequinar,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,-4.819300799,active,Disease control,DHOD,CSAA535232,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Brequinar,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,,inactive,Disease control,DHOD,CSAA535232,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Brequinar,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Disease control,DHOD,CSAA535232,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+Brequinar,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Disease control,DHOD,CSAA535232,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+Brequinar,UL55_OXstress_NRF2_3h_6h_24h_EP_3,,inactive,Disease control,DHOD,CSAA535232,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+Brequinar,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-4.114808459,active,Disease control,DHOD,CSAA535232,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+Brequinar,UL56_OXstress_Keap1_16h_48h_72h_EP_2,,inactive,Disease control,DHOD,CSAA535232,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+Brequinar,UL56_OXstress_Keap1_16h_48h_72h_EP_3,,inactive,Disease control,DHOD,CSAA535232,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+Brequinar,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+Brequinar,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,-5.149966742,active,Disease control,DHOD,CSAA535232,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Brequinar,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,-5.216811309,active,Disease control,DHOD,CSAA535232,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Brequinar,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+Brequinar,UL58_DNAdamage_p21_24h_48h_72h_EP_2,-6.0,active,Disease control,DHOD,CSAA535232,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+Brequinar,UL58_DNAdamage_p21_24h_48h_72h_EP_3,-6.0,active,Disease control,DHOD,CSAA535232,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+Brequinar,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+Brequinar,UL59_DNAdamage_p53_16h_48h_72h_EP_2,-6.698970004,active,Disease control,DHOD,CSAA535232,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+Brequinar,UL59_DNAdamage_p53_16h_48h_72h_EP_3,-6.698970004,active,Disease control,DHOD,CSAA535232,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+Brequinar,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+Brequinar,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Disease control,DHOD,CSAA535232,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+Brequinar,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+Brequinar,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-4.189431471,active,Disease control,DHOD,CSAA535232,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+Brequinar,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-4.271321633,active,Disease control,DHOD,CSAA535232,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+Brequinar,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Brequinar,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Disease control,DHOD,CSAA535232,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+Brequinar,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Disease control,DHOD,CSAA535232,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+Brequinar,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,-4.126388803,active,Disease control,DHOD,CSAA535232,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Brequinar,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,-4.332827328,active,Disease control,DHOD,CSAA535232,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Brequinar,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-4.995248844,active,Disease control,DHOD,CSAA535232,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Brequinar,UL64_Autophagy_LC3_3h_6h_24h_EP_3,,inactive,Disease control,DHOD,CSAA535232,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+Brequinar,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Disease control,DHOD,CSAA535232,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Brequinar,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,,inactive,Disease control,DHOD,CSAA535232,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Brequinar,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,,inactive,Disease control,DHOD,CSAA535232,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Brequinar,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,-4.144359719,active,Disease control,DHOD,CSAA535232,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+Brequinar,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,-4.132296867,active,Disease control,DHOD,CSAA535232,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+Brequinar,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,-4.1035289,active,Disease control,DHOD,CSAA535232,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+Brequinar,VU_resazurin_24h,,inactive,Disease control,DHOD,CSAA535232,cytotoxicity,False
+Brequinar,VU_resazurin_72h,-4.301029995663981,active,Disease control,DHOD,CSAA535232,cytotoxicity,False
+Brequinar,VU_seahorse,,inactive,Disease control,DHOD,CSAA535232,mitotoxicity,False
+SYN546763,BDS10a_metab_PPARa_ago_24h,,inactive,Disease control,Unknown,CSCN458537,peroxisome proliferator activated receptor agonism,False
+SYN546763,BDS10b_metab_PPARa_anta_24h,,inactive,Disease control,Unknown,CSCN458537,peroxisome proliferator activated receptor antagonism,False
+SYN546763,BDS11a_metab_PPARg_ago_24h,,inactive,Disease control,Unknown,CSCN458537,peroxisome proliferator activated receptor agonism,False
+SYN546763,BDS11b_metab_PPARg_anta_24h,,inactive,Disease control,Unknown,CSCN458537,peroxisome proliferator activated receptor antagonism,True
+SYN546763,BDS12a_metab_PPARd_ago_24h,,inactive,Disease control,Unknown,CSCN458537,peroxisome proliferator activated receptor agonism,False
+SYN546763,BDS12b_metab_PPARd_anta_24h,,inactive,Disease control,Unknown,CSCN458537,peroxisome proliferator activated receptor antagonism,False
+SYN546763,BDS13a_xenob_AhR_ago_24h,,inactive,Disease control,Unknown,CSCN458537,aryl hydrocarbon receptor agonism,False
+SYN546763,BDS14a_hypox_Hif1a_act_24h,-5.0,active,Disease control,Unknown,CSCN458537,Hif1a pathway activation,False
+SYN546763,BDS15a_Wnt_TCF_act_24h,,inactive,Disease control,Unknown,CSCN458537,Wnt pathway activation,True
+SYN546763,BDS15b_Wnt_TCF_inhib_24h,,inactive,Disease control,Unknown,CSCN458537,Wnt pathway inhibition,True
+SYN546763,BDS16a_regul_AP1_act_24h,,inactive,Disease control,Unknown,CSCN458537,AP1 pathway activation,True
+SYN546763,BDS17a_stres_ESRE_act_24h,,inactive,Disease control,Unknown,CSCN458537,ESRE pathway activation,False
+SYN546763,BDS1a_EDC_ERa_ago_24h,-4.7,active,Disease control,Unknown,CSCN458537,estrogen receptor agonism,False
+SYN546763,BDS1b_EDC_ERa_anta_24h,,inactive,Disease control,Unknown,CSCN458537,estrogen receptor antagonism,True
+SYN546763,BDS20a_geno_p21_act_24h,,inactive,Disease control,Unknown,CSCN458537,p21 pathway activation,False
+SYN546763,BDS21a_geno_p53_act_24h,,inactive,Disease control,Unknown,CSCN458537,p53 pathway activation,False
+SYN546763,BDS22a_tox_cytotox_act_24h,-4.1,active,Disease control,Unknown,CSCN458537,cytotoxicity,False
+SYN546763,BDS2a_EDC_AR_ago_24h,,inactive,Disease control,Unknown,CSCN458537,androgen receptor agonism,True
+SYN546763,BDS2b_EDC_AR_anta_24h,-4.8,active,Disease control,Unknown,CSCN458537,androgen receptor antagonism,False
+SYN546763,BDS3a_EDC_PR_ago_24h,,inactive,Disease control,Unknown,CSCN458537,progesterone receptor agonism,True
+SYN546763,BDS3b_EDC_PR_anta_24h,-4.4,active,Disease control,Unknown,CSCN458537,progesterone receptor antagonism,False
+SYN546763,BDS4a_EDC_GR_ago_24h,,inactive,Disease control,Unknown,CSCN458537,glucocorticoid receptor agonism,True
+SYN546763,BDS4b_EDC_GR_anta_24h,,inactive,Disease control,Unknown,CSCN458537,glucocorticoid receptor antagonism,True
+SYN546763,BDS5a_EDC_TRb_ago_24h,,inactive,Disease control,Unknown,CSCN458537,thyroid hormone receptor agonism,True
+SYN546763,BDS5b_EDC_TRb_anta_24h,,inactive,Disease control,Unknown,CSCN458537,thyroid hormone receptor antagonism,True
+SYN546763,BDS7a_repro_RAR_ago_24h,,inactive,Disease control,Unknown,CSCN458537,retinoic acid receptor agonism,True
+SYN546763,BDS7b_repro_RAR_anta_24h,,inactive,Disease control,Unknown,CSCN458537,retinoic acid receptor antagonism,True
+SYN546763,BDS8a_metab_LXR_ago_24h,,inactive,Disease control,Unknown,CSCN458537,liver X receptor agonism,True
+SYN546763,BDS8b_metab_LXR_anta_24h,,inactive,Disease control,Unknown,CSCN458537,liver X receptor antagonism,True
+SYN546763,BDS9a_xenob_PXR_ago_24h,-6.0,active,Disease control,Unknown,CSCN458537,pregnane X receptor agonism,False
+SYN546763,BDS9b_xenob_PXR_anta_24h,,inactive,Disease control,Unknown,CSCN458537,pregnane X receptor antagonism,True
+SYN546763,UKN2_migration,-5.4,active,Disease control,Unknown,CSCN458537,number of migrated cells,False
+SYN546763,UKN4a_DART_LUH_neurite_24h,-5.1,active,Disease control,Unknown,CSCN458537,neurite area,False
+SYN546763,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-4.818728228,active,Disease control,Unknown,CSCN458537,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN546763,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-4.915423722,active,Disease control,Unknown,CSCN458537,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN546763,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-4.818728228,active,Disease control,Unknown,CSCN458537,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN546763,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN546763,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN546763,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCN458537,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN546763,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Disease control,Unknown,CSCN458537,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN546763,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Disease control,Unknown,CSCN458537,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN546763,UL55_OXstress_NRF2_3h_6h_24h_EP_3,,inactive,Disease control,Unknown,CSCN458537,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN546763,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-3.78608399,active,Disease control,Unknown,CSCN458537,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN546763,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-3.632010806,active,Disease control,Unknown,CSCN458537,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN546763,UL56_OXstress_Keap1_16h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCN458537,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN546763,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN546763,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN546763,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCN458537,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN546763,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN546763,UL58_DNAdamage_p21_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN546763,UL58_DNAdamage_p21_24h_48h_72h_EP_3,-3.655175612,active,Disease control,Unknown,CSCN458537,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN546763,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN546763,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN546763,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCN458537,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN546763,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN546763,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN546763,UL61_ERstress_CHOP_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN546763,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-3.755055247,active,Disease control,Unknown,CSCN458537,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN546763,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-3.837226561,active,Disease control,Unknown,CSCN458537,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN546763,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN546763,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN546763,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCN458537,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN546763,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN546763,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN546763,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-4.672845488,active,Disease control,Unknown,CSCN458537,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN546763,UL64_Autophagy_LC3_3h_6h_24h_EP_3,-3.661165158,active,Disease control,Unknown,CSCN458537,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN546763,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCN458537,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN546763,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,-3.673397908,active,Disease control,Unknown,CSCN458537,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN546763,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,-3.632010806,active,Disease control,Unknown,CSCN458537,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN546763,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,-3.589087861,active,Disease control,Unknown,CSCN458537,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN546763,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCN458537,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN546763,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCN458537,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN546763,VU_resazurin_24h,,inactive,Disease control,Unknown,CSCN458537,cytotoxicity,False
+SYN546763,VU_resazurin_72h,,inactive,Disease control,Unknown,CSCN458537,cytotoxicity,False
+SYN546763,VU_seahorse,,inactive,Disease control,Unknown,CSCN458537,mitotoxicity,False
+SYN548023,BDS10a_metab_PPARa_ago_24h,,inactive,Disease control,Unknown,CSCR544459,peroxisome proliferator activated receptor agonism,False
+SYN548023,BDS10b_metab_PPARa_anta_24h,,inactive,Disease control,Unknown,CSCR544459,peroxisome proliferator activated receptor antagonism,False
+SYN548023,BDS11a_metab_PPARg_ago_24h,,inactive,Disease control,Unknown,CSCR544459,peroxisome proliferator activated receptor agonism,False
+SYN548023,BDS11b_metab_PPARg_anta_24h,,inactive,Disease control,Unknown,CSCR544459,peroxisome proliferator activated receptor antagonism,True
+SYN548023,BDS12a_metab_PPARd_ago_24h,,inactive,Disease control,Unknown,CSCR544459,peroxisome proliferator activated receptor agonism,False
+SYN548023,BDS12b_metab_PPARd_anta_24h,,inactive,Disease control,Unknown,CSCR544459,peroxisome proliferator activated receptor antagonism,False
+SYN548023,BDS13a_xenob_AhR_ago_24h,-5.5,active,Disease control,Unknown,CSCR544459,aryl hydrocarbon receptor agonism,False
+SYN548023,BDS14a_hypox_Hif1a_act_24h,,inactive,Disease control,Unknown,CSCR544459,Hif1a pathway activation,False
+SYN548023,BDS15a_Wnt_TCF_act_24h,,inactive,Disease control,Unknown,CSCR544459,Wnt pathway activation,True
+SYN548023,BDS15b_Wnt_TCF_inhib_24h,,inactive,Disease control,Unknown,CSCR544459,Wnt pathway inhibition,True
+SYN548023,BDS16a_regul_AP1_act_24h,,inactive,Disease control,Unknown,CSCR544459,AP1 pathway activation,True
+SYN548023,BDS17a_stres_ESRE_act_24h,-5.0,active,Disease control,Unknown,CSCR544459,ESRE pathway activation,False
+SYN548023,BDS1a_EDC_ERa_ago_24h,-5.0,active,Disease control,Unknown,CSCR544459,estrogen receptor agonism,False
+SYN548023,BDS1b_EDC_ERa_anta_24h,,inactive,Disease control,Unknown,CSCR544459,estrogen receptor antagonism,True
+SYN548023,BDS20a_geno_p21_act_24h,,inactive,Disease control,Unknown,CSCR544459,p21 pathway activation,False
+SYN548023,BDS21a_geno_p53_act_24h,-5.0,active,Disease control,Unknown,CSCR544459,p53 pathway activation,False
+SYN548023,BDS22a_tox_cytotox_act_24h,-4.1,active,Disease control,Unknown,CSCR544459,cytotoxicity,False
+SYN548023,BDS2a_EDC_AR_ago_24h,,inactive,Disease control,Unknown,CSCR544459,androgen receptor agonism,True
+SYN548023,BDS2b_EDC_AR_anta_24h,-5.3,active,Disease control,Unknown,CSCR544459,androgen receptor antagonism,False
+SYN548023,BDS3a_EDC_PR_ago_24h,,inactive,Disease control,Unknown,CSCR544459,progesterone receptor agonism,True
+SYN548023,BDS3b_EDC_PR_anta_24h,-5.2,active,Disease control,Unknown,CSCR544459,progesterone receptor antagonism,False
+SYN548023,BDS4a_EDC_GR_ago_24h,,inactive,Disease control,Unknown,CSCR544459,glucocorticoid receptor agonism,True
+SYN548023,BDS4b_EDC_GR_anta_24h,,inactive,Disease control,Unknown,CSCR544459,glucocorticoid receptor antagonism,True
+SYN548023,BDS5a_EDC_TRb_ago_24h,,inactive,Disease control,Unknown,CSCR544459,thyroid hormone receptor agonism,True
+SYN548023,BDS5b_EDC_TRb_anta_24h,,inactive,Disease control,Unknown,CSCR544459,thyroid hormone receptor antagonism,True
+SYN548023,BDS7a_repro_RAR_ago_24h,,inactive,Disease control,Unknown,CSCR544459,retinoic acid receptor agonism,True
+SYN548023,BDS7b_repro_RAR_anta_24h,,inactive,Disease control,Unknown,CSCR544459,retinoic acid receptor antagonism,True
+SYN548023,BDS8a_metab_LXR_ago_24h,,inactive,Disease control,Unknown,CSCR544459,liver X receptor agonism,True
+SYN548023,BDS8b_metab_LXR_anta_24h,,inactive,Disease control,Unknown,CSCR544459,liver X receptor antagonism,True
+SYN548023,BDS9a_xenob_PXR_ago_24h,-6.3,active,Disease control,Unknown,CSCR544459,pregnane X receptor agonism,False
+SYN548023,BDS9b_xenob_PXR_anta_24h,,inactive,Disease control,Unknown,CSCR544459,pregnane X receptor antagonism,True
+SYN548023,UKN2_migration,-5.1,active,Disease control,Unknown,CSCR544459,number of migrated cells,False
+SYN548023,UKN4a_DART_LUH_neurite_24h,-4.5,active,Disease control,Unknown,CSCR544459,neurite area,False
+SYN548023,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-4.915423722,active,Disease control,Unknown,CSCR544459,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548023,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-5.040005162,active,Disease control,Unknown,CSCR544459,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548023,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-4.915423722,active,Disease control,Unknown,CSCR544459,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548023,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548023,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR544459,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548023,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR544459,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548023,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Disease control,Unknown,CSCR544459,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN548023,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Disease control,Unknown,CSCR544459,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN548023,UL55_OXstress_NRF2_3h_6h_24h_EP_3,,inactive,Disease control,Unknown,CSCR544459,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN548023,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-4.614930224,active,Disease control,Unknown,CSCR544459,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN548023,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-4.672845488,active,Disease control,Unknown,CSCR544459,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN548023,UL56_OXstress_Keap1_16h_48h_72h_EP_3,-4.563837353,active,Disease control,Unknown,CSCR544459,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN548023,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN548023,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR544459,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548023,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR544459,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548023,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN548023,UL58_DNAdamage_p21_24h_48h_72h_EP_2,-3.810902891,active,Disease control,Unknown,CSCR544459,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548023,UL58_DNAdamage_p21_24h_48h_72h_EP_3,-4.476773958,active,Disease control,Unknown,CSCR544459,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548023,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN548023,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR544459,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548023,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR544459,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548023,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN548023,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR544459,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN548023,UL61_ERstress_CHOP_16h_48h_72h_EP_1,-3.643438779,active,Disease control,Unknown,CSCR544459,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN548023,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-3.733157051,active,Disease control,Unknown,CSCR544459,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548023,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-3.794200378,active,Disease control,Unknown,CSCR544459,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548023,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548023,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR544459,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN548023,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR544459,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN548023,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR544459,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548023,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR544459,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548023,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR544459,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548023,UL64_Autophagy_LC3_3h_6h_24h_EP_3,-4.372122305,active,Disease control,Unknown,CSCR544459,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN548023,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,-3.712310216,active,Disease control,Unknown,CSCR544459,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548023,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,-3.950239448,active,Disease control,Unknown,CSCR544459,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548023,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,-3.667238464,active,Disease control,Unknown,CSCR544459,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548023,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,-4.372122305,active,Disease control,Unknown,CSCR544459,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548023,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,-3.837226561,active,Disease control,Unknown,CSCR544459,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548023,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,-3.719148574,active,Disease control,Unknown,CSCR544459,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548023,VU_resazurin_24h,,inactive,Disease control,Unknown,CSCR544459,cytotoxicity,False
+SYN548023,VU_resazurin_72h,,inactive,Disease control,Unknown,CSCR544459,cytotoxicity,False
+SYN548023,VU_seahorse,-4.301029995663981,active,Disease control,Unknown,CSCR544459,mitotoxicity,False
+SYN548022,BDS10a_metab_PPARa_ago_24h,,inactive,Disease control,Unknown,CSCR121143,peroxisome proliferator activated receptor agonism,False
+SYN548022,BDS10b_metab_PPARa_anta_24h,,inactive,Disease control,Unknown,CSCR121143,peroxisome proliferator activated receptor antagonism,False
+SYN548022,BDS11a_metab_PPARg_ago_24h,-5.0,active,Disease control,Unknown,CSCR121143,peroxisome proliferator activated receptor agonism,False
+SYN548022,BDS11b_metab_PPARg_anta_24h,,inactive,Disease control,Unknown,CSCR121143,peroxisome proliferator activated receptor antagonism,True
+SYN548022,BDS12a_metab_PPARd_ago_24h,,inactive,Disease control,Unknown,CSCR121143,peroxisome proliferator activated receptor agonism,False
+SYN548022,BDS12b_metab_PPARd_anta_24h,,inactive,Disease control,Unknown,CSCR121143,peroxisome proliferator activated receptor antagonism,False
+SYN548022,BDS13a_xenob_AhR_ago_24h,,inactive,Disease control,Unknown,CSCR121143,aryl hydrocarbon receptor agonism,False
+SYN548022,BDS14a_hypox_Hif1a_act_24h,,inactive,Disease control,Unknown,CSCR121143,Hif1a pathway activation,False
+SYN548022,BDS15a_Wnt_TCF_act_24h,,inactive,Disease control,Unknown,CSCR121143,Wnt pathway activation,True
+SYN548022,BDS15b_Wnt_TCF_inhib_24h,,inactive,Disease control,Unknown,CSCR121143,Wnt pathway inhibition,True
+SYN548022,BDS16a_regul_AP1_act_24h,,inactive,Disease control,Unknown,CSCR121143,AP1 pathway activation,True
+SYN548022,BDS17a_stres_ESRE_act_24h,,inactive,Disease control,Unknown,CSCR121143,ESRE pathway activation,False
+SYN548022,BDS1a_EDC_ERa_ago_24h,,inactive,Disease control,Unknown,CSCR121143,estrogen receptor agonism,False
+SYN548022,BDS1b_EDC_ERa_anta_24h,,inactive,Disease control,Unknown,CSCR121143,estrogen receptor antagonism,True
+SYN548022,BDS20a_geno_p21_act_24h,,inactive,Disease control,Unknown,CSCR121143,p21 pathway activation,False
+SYN548022,BDS21a_geno_p53_act_24h,,inactive,Disease control,Unknown,CSCR121143,p53 pathway activation,False
+SYN548022,BDS22a_tox_cytotox_act_24h,-4.6,active,Disease control,Unknown,CSCR121143,cytotoxicity,False
+SYN548022,BDS2a_EDC_AR_ago_24h,,inactive,Disease control,Unknown,CSCR121143,androgen receptor agonism,True
+SYN548022,BDS2b_EDC_AR_anta_24h,-5.5,active,Disease control,Unknown,CSCR121143,androgen receptor antagonism,False
+SYN548022,BDS3a_EDC_PR_ago_24h,,inactive,Disease control,Unknown,CSCR121143,progesterone receptor agonism,True
+SYN548022,BDS3b_EDC_PR_anta_24h,-5.4,active,Disease control,Unknown,CSCR121143,progesterone receptor antagonism,False
+SYN548022,BDS4a_EDC_GR_ago_24h,,inactive,Disease control,Unknown,CSCR121143,glucocorticoid receptor agonism,True
+SYN548022,BDS4b_EDC_GR_anta_24h,,inactive,Disease control,Unknown,CSCR121143,glucocorticoid receptor antagonism,True
+SYN548022,BDS5a_EDC_TRb_ago_24h,,inactive,Disease control,Unknown,CSCR121143,thyroid hormone receptor agonism,True
+SYN548022,BDS5b_EDC_TRb_anta_24h,,inactive,Disease control,Unknown,CSCR121143,thyroid hormone receptor antagonism,True
+SYN548022,BDS7a_repro_RAR_ago_24h,,inactive,Disease control,Unknown,CSCR121143,retinoic acid receptor agonism,True
+SYN548022,BDS7b_repro_RAR_anta_24h,,inactive,Disease control,Unknown,CSCR121143,retinoic acid receptor antagonism,True
+SYN548022,BDS8a_metab_LXR_ago_24h,,inactive,Disease control,Unknown,CSCR121143,liver X receptor agonism,True
+SYN548022,BDS8b_metab_LXR_anta_24h,,inactive,Disease control,Unknown,CSCR121143,liver X receptor antagonism,True
+SYN548022,BDS9a_xenob_PXR_ago_24h,-7.0,active,Disease control,Unknown,CSCR121143,pregnane X receptor agonism,False
+SYN548022,BDS9b_xenob_PXR_anta_24h,,inactive,Disease control,Unknown,CSCR121143,pregnane X receptor antagonism,True
+SYN548022,UKN2_migration,-4.5,active,Disease control,Unknown,CSCR121143,number of migrated cells,False
+SYN548022,UKN4a_DART_LUH_neurite_24h,-4.7,active,Disease control,Unknown,CSCR121143,neurite area,False
+SYN548022,UL53_OXstress_SRXN1_24h_48h_72h_EP_1,-4.672845488,active,Disease control,Unknown,CSCR121143,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548022,UL53_OXstress_SRXN1_24h_48h_72h_EP_2,-4.915423722,active,Disease control,Unknown,CSCR121143,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548022,UL53_OXstress_SRXN1_24h_48h_72h_EP_3,-5.040005162,active,Disease control,Unknown,CSCR121143,SRXN1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548022,UL54_OXstress_HMOX1_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548022,UL54_OXstress_HMOX1_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548022,UL54_OXstress_HMOX1_24h_48h_72h_EP_3,-3.632010806,active,Disease control,Unknown,CSCR121143,HMOX1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548022,UL55_OXstress_NRF2_3h_6h_24h_EP_1,,inactive,Disease control,Unknown,CSCR121143,NRF2-GFP protein expression in the nucleus; PoD at timepoint 3h,False
+SYN548022,UL55_OXstress_NRF2_3h_6h_24h_EP_2,,inactive,Disease control,Unknown,CSCR121143,NRF2-GFP protein expression in the nucleus; PoD at timepoint 6h,False
+SYN548022,UL55_OXstress_NRF2_3h_6h_24h_EP_3,-3.712310216,active,Disease control,Unknown,CSCR121143,NRF2-GFP protein expression in the nucleus; PoD at timepoint 24h,False
+SYN548022,UL56_OXstress_Keap1_16h_48h_72h_EP_1,-5.215382707,active,Disease control,Unknown,CSCR121143,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 16h,False
+SYN548022,UL56_OXstress_Keap1_16h_48h_72h_EP_2,-5.040005162,active,Disease control,Unknown,CSCR121143,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 48h,False
+SYN548022,UL56_OXstress_Keap1_16h_48h_72h_EP_3,-5.040005162,active,Disease control,Unknown,CSCR121143,Keap1 foci counts in the cytoplasm per cell; PoD at timepoint 72h,False
+SYN548022,UL57_DNAdamage_Btg2_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 24h,True
+SYN548022,UL57_DNAdamage_Btg2_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548022,UL57_DNAdamage_Btg2_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR121143,Btg2-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548022,UL58_DNAdamage_p21_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,p21-GFP protein expression in the nucleus; PoD at timepoint 24h,True
+SYN548022,UL58_DNAdamage_p21_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,p21-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548022,UL58_DNAdamage_p21_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR121143,p21-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548022,UL59_DNAdamage_p53_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,p53-GFP protein expression in the nucleus; PoD at timepoint 16h,True
+SYN548022,UL59_DNAdamage_p53_16h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,p53-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548022,UL59_DNAdamage_p53_16h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR121143,p53-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548022,UL60_DNAdamage_53bp1_16h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,53bp1 foci count in the nucleus per cell; PoD at timepoint 24h,True
+SYN548022,UL60_DNAdamage_53bp1_16h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,53bp1 foci count in the nucleus per cell; PoD at timepoint 48h,False
+SYN548022,UL61_ERstress_CHOP_16h_48h_72h_EP_1,-3.550028189,active,Disease control,Unknown,CSCR121143,CHOP-GFP protein expression in the nucleus; PoD at timepoint 16h,False
+SYN548022,UL61_ERstress_CHOP_16h_48h_72h_EP_2,-3.755055247,active,Disease control,Unknown,CSCR121143,CHOP-GFP protein expression in the nucleus; PoD at timepoint 48h,False
+SYN548022,UL61_ERstress_CHOP_16h_48h_72h_EP_3,-3.846368035,active,Disease control,Unknown,CSCR121143,CHOP-GFP protein expression in the nucleus; PoD at timepoint 72h,False
+SYN548022,UL62_ERstress_BiP_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548022,UL62_ERstress_BiP_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 48h,True
+SYN548022,UL62_ERstress_BiP_24h_48h_72h_EP_3,,inactive,Disease control,Unknown,CSCR121143,BiP-GFP protein expression in the cytoplasm; PoD at timepoint 72h,True
+SYN548022,UL63_INFstress_ICAM1_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548022,UL63_INFstress_ICAM1_24h_48h_72h_EP_2,,inactive,Disease control,Unknown,CSCR121143,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548022,UL63_INFstress_ICAM1_24h_48h_72h_EP_3,-4.476773958,active,Disease control,Unknown,CSCR121143,ICAM1-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548022,UL64_Autophagy_LC3_3h_6h_24h_EP_3,-4.915423722,active,Disease control,Unknown,CSCR121143,LC3 foci count in the cytoplasm per cell; PoD at timepoint 24h,False
+SYN548022,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_1,,inactive,Disease control,Unknown,CSCR121143,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548022,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_2,-4.0,active,Disease control,Unknown,CSCR121143,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548022,UL65_HeatShock_HSPA1B_24h_48h_72h_EP_3,-4.0,active,Disease control,Unknown,CSCR121143,HSPA1B-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548022,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_1,-4.51812759,active,Disease control,Unknown,CSCR121143,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 24h,False
+SYN548022,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_2,-4.563837353,active,Disease control,Unknown,CSCR121143,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 48h,False
+SYN548022,UL66_HeavyMetal_MT1X_24h_48h_72h_EP_3,-4.672845488,active,Disease control,Unknown,CSCR121143,MT1X-GFP protein expression in the cytoplasm; PoD at timepoint 72h,False
+SYN548022,VU_resazurin_24h,,inactive,Disease control,Unknown,CSCR121143,cytotoxicity,False
+SYN548022,VU_resazurin_72h,,inactive,Disease control,Unknown,CSCR121143,cytotoxicity,False
+SYN548022,VU_seahorse,,inactive,Disease control,Unknown,CSCR121143,mitotoxicity,False
